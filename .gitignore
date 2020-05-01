@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Non-project files.
+important.txt
+playground.py
+examples
+.idea
